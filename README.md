@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...travel, hiking, and coding
 - 🌱 I’m currently learning ...everything that I can!
 - 💞️ I’m looking to collaborate on ...not sure yet.  
-- 📫 How to reach me ...meglev80@gmai.com
+- 📫 How to reach me ...meglev80@gmail.com
 
 <!---
 Meglev80/Meglev80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
