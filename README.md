@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Meglev80
-- 👀 I’m interested in ...travel, hiking, and coding
-- 🌱 I’m currently learning ...everything that I can!
-- 💞️ I’m looking to collaborate on ...not sure yet.  
+- 👋 Hi, I’m @Meglev80 aka Megan.
+- 👀 I’m interested in ...travel, hiking, and coding.
+- 🌱 I’m currently learning ...everything that I can!(but mostly JavaScript, Python, and front-end development) 
 - 📫 How to reach me ...meglev80@gmail.com
 
 <!---
